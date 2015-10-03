@@ -1,0 +1,7 @@
+/.vs/UnityVS.ecs.rewired/v14/*.suo
+/Library
+/Temp
+*.suo
+/Assets/Plugins
+/Assets/UnityVS
+/Assets/UnityVS.meta
